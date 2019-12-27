@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\bin\Debug\WindowsFormsAppFinalProject.exe.config
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\bin\Debug\WindowsFormsAppFinalProject.exe
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\bin\Debug\WindowsFormsAppFinalProject.pdb
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.exe
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.pdb
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\bin\Debug\DarrenLee.dll
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dell\source\repos\WindowsFormsAppFinalProject\WindowsFormsAppFinalProject\obj\Debug\WindowsFormsAppFinalProject.csproj.CopyComplete
